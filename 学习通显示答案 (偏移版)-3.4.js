@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         学习通显示答案 (偏移版)
+// @name         学习通显示答案 
 // @namespace    http://tampermonkey.net/
 // @version      3.4
-// @description  强制AI返回带题号的答案，并智能匹配题目 (AI第2题对应原始第1题)
-// @author       云烁 (修改版)
+// @description  强制AI返回带题号的答案，并智能匹配题目 (AI第2题对应原始第1题),关于题号的对应可能存在问题希望能得到其他同学的帮助
+// @author       云烁 
 // @match        *://mooc1.chaoxing.com/mooc-ans*
 // @grant        GM_xmlhttpRequest
 // @connect      api.deepseek.com
