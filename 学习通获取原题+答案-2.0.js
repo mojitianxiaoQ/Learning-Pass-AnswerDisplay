@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  提取题目、选项及正确答案。导出格式：题号、题型、题干、选项A、选项B、选项C、选项D、正确答案。需要打开到答题完成后的界面才可以使用，如果老师禁止答题之后查看答案则完全不可用。
-// @author       墨迹天笑
+// @author       云烁
 // @match        *mooc1.chaoxing.com/mooc-ans/*
 // @grant        none
 // @run-at       document-end
